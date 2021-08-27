@@ -20,11 +20,6 @@
                 </div>
             </div>
         ";
-        if (isset($_GET['data']) && !empty($_GET["page"])){
-            setSection($d);
-        }
-        else{
-
-        }
+       
         
     }
